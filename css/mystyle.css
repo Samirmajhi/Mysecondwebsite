@@ -1,0 +1,117 @@
+.top-container{
+    
+    background-color:#eaf6f6;
+    padding: 100px;
+    
+}
+h1{
+    margin: 50px,auto,0px,auto;
+    position: 0;
+    font-family: 'sacramento',cursive;
+    font-size: 5.62rem;
+    color: #66bfbf;
+    height: 1em;
+
+
+}
+h2{
+    font-family: 'sacramento',sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66bfbf;
+}
+h3{
+    font-family: 'sacramento',sans-serif;
+    color: #11999E;
+    margin-bottom: 5px;
+}
+a{
+    color: #11999E;
+}
+body{
+    margin: 0;
+   
+    text-align: center;
+    font-family: 'merriweather', serif;
+    font-size: 100%;
+}
+.skill-row{
+    width: 50%;
+    
+    /* margin:100px,auto,100px,auto; */
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.hero{
+    height:300px;
+    width: 300px;
+    
+}
+
+.top-cloud{
+    position :absolute;
+    right:300px;
+    top: 85px;
+}
+.bottom-cloud{
+    position :absolute;
+    left: 200px;
+    bottom: 200px;
+}
+
+.chilli{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.computer{
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+
+}
+hr{
+    border-style: none;
+    border-top-style:dotted ;
+  
+    border-width: 5px;
+    border-color: rgb(45, 74, 48);
+    
+   height: 2px;
+   width: 5%;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    margin-top: 30px;
+    padding: 40px;
+}
+.footer-link{
+    color: #11999E;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.footer-logo{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.btn{
+    display:block;
+    background-color: #11999E;
+    width: 15%;
+    height: 30px;
+    padding: 10px;
+    position: absolute;
+    left:42.5%;
+    color: blanchedalmond;
+    margin: 20px auto 20px auto;
+}
+.contact-me{
+    margin-bottom: 175px;
+
+    margin-top: 50px;
+}
